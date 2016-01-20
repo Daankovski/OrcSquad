@@ -1,11 +1,9 @@
 fileFormatVersion: 2
-guid: 2b001512ea12bd94783823f0c72d8835
-timeCreated: 1453054613
+guid: 759f4ee51ec7cde4e9678506df101d81
+timeCreated: 1453297251
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Jangor_Idle_0
-    21300002: Jangor_Idle_1
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -32,7 +30,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: 16
+    aniso: -1
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -40,7 +38,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,27 +49,7 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites:
-    - name: Jangor_Idle_0
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 0
-        width: 400
-        height: 585
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Jangor_Idle_1
-      rect:
-        serializedVersion: 2
-        x: 626
-        y: 0
-        width: 400
-        height: 585
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+    sprites: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

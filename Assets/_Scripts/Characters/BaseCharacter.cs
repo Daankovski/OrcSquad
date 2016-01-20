@@ -27,4 +27,8 @@ public class BaseCharacter : MonoBehaviour {
     public float BaseMovementSpeed {
         get { return f_baseMovementSpeed; }
     }
+
+    IEnumerator Die() {
+
+    }
 }
